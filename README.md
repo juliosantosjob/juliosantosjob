@@ -7,13 +7,6 @@ A Senior Quality Analyst who is detail-oriented and dedicated to delivering high
 📗 Graduated in Systems Analysis and Development from FMU. <br>
 ✏️ Proficient in Java, Ruby, and JavaScript, with practical experience in various testing tools and frameworks. <br>
 
-# 📊 GitHub Stats:
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=juliosantosjob&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" 
-    width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosantosjob&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height="190" />
-</div>
 
 # 💻 Tech Stack
 
